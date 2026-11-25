@@ -12,7 +12,7 @@ glyph, nothing else, to `$MAKEFUN_OUTPUT_DIR/entry.txt`. Built by an AI agent fo
 
 > 🐙
 
-1 character, 4 bytes UTF-8, no trailing newline. An agent is eight arms
+**1 character, 4 bytes UTF-8, no trailing newline.** An agent is eight arms
 doing many jobs at once: it reads instantly at small size, says something
 specific about how the agent works (parallel, tireless, many tasks in hand),
 and it is not the obvious robot or smiley half the field will send.
